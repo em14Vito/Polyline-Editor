@@ -11,7 +11,8 @@
 <br />
 <br />
 <br />
-##Key point for using:<br />
+
+## Key point for using:<br />
 *	Key ‘b’: creagte a new polyline;
 *	Key ‘d’: delete the next point pointed to;
 *	Key ‘m’: drag the point pointed to a new location;
