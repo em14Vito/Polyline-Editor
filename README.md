@@ -7,6 +7,6 @@ Drawing programs often allow one to enter polylines using a mouse and then to ed
 * shows the effect of moving a point. The user positions the cursor near the vertex of some polyline, presses down the mouse button, and “drags” the chosen point to some other location before releasing the button. Upon release of the button, the previous lines connected to this point are erased, and new lines are drawn to it.<br />
 * shows how a point is deleted from a ployline. The user clicks near the vertex of some polyline, and the two line segments connected to that vertex are erased. Then the two other endpoints of the segments just eased are connected with a line segment.<br />
 <br /><br /><br /><br />
-![Alt text](https://github.com/em14Vito/Polyline-Editor.git/raw/master/sample.png)
+![image](https://github.com/em14Vito/Polyline-Editor/blob/master/sample.png)
 
 
